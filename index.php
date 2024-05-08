@@ -1,6 +1,6 @@
 <?php
 
-$b=1;
+$b=2;
 echo $c;
 echo $a,$a;
 echo $a,$a;
