@@ -6,5 +6,5 @@ $b=1;
 echo $a;
 echo $a;
 
-echo $b;
+echo $b.$a;
 ?>
